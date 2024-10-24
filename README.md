@@ -27,4 +27,4 @@
 - Sınıflandırma Raporu: Her sınıf için ayrıntılı kesinlik ve geri çağırma sağlanır
 
 5) Tahmin
--Örnek bir görüntü yüklenir, önceden işlenir ve balık türlerini tahmin etmek için eğitilmiş modele beslenir. Tahmin matplotlib kullanılarak görselleştirildi.
+- Örnek bir görüntü yüklenir, önceden işlenir ve balık türlerini tahmin etmek için eğitilmiş modele beslenir. Tahmin matplotlib kullanılarak görselleştirildi.
