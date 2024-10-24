@@ -29,4 +29,4 @@
 5) Tahmin
 - Örnek bir görüntü yüklenir, önceden işlenir ve balık türlerini tahmin etmek için eğitilmiş modele beslenir. Tahmin matplotlib kullanılarak görselleştirildi.
   
-6)Kaggle Proje Linki: https://www.kaggle.com/code/oguzhancelik0/fish-image-classification
+6) Kaggle Proje Linki: https://www.kaggle.com/code/oguzhancelik0/fish-image-classification
